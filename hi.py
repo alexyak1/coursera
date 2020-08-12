@@ -1,0 +1,1 @@
+print('Hi! Congratilation with started study python')
